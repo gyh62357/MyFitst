@@ -23,5 +23,6 @@ public class Test {
 		System.out.println("预测到的强力大小是:"+y1);
 		System.out.println("预测到的强力大小是:"+y1);
 		System.out.println("预测到的强力大小是:"+y1);
+		System.out.println("预测到的强力大小是:"+y1);
 	}
 }
